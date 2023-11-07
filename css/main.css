@@ -1,8 +1,4 @@
-.header {
-  width: 1300px;
-  height: 600px;
-  border: 1px solid;
-  margin: 0 auto;
-}
-
-/*# sourceMappingURL=main.css.map */
+.extra__title {
+  background-color: blue;
+  border-bottom: 50px;
+}/*# sourceMappingURL=main.css.map */
