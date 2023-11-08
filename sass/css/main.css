@@ -1,0 +1,115 @@
+header {
+    width: 1500px;
+  }
+  header .home {
+    width: 200px;
+    height: 30px;
+  }
+  header .buttom {
+    width: 200px;
+    height: 40px;
+    margin: 0px 1290px;
+  }
+  header .list {
+    display: flex;
+    width: 420px;
+    gap: 50px;
+    margin: -30px 800px;
+  }
+  
+  .flay {
+    width: 545px;
+    height: 396px;
+    margin: 220px 70px;
+  }
+  .flay .off {
+    display: flex;
+    width: 343px;
+    height: 24px;
+    top: 200px;
+    left: 85px;
+    opacity: 40%;
+    margin: 0px 75px;
+  }
+  .flay .on {
+    width: 150px;
+    height: 172px;
+    top: 230px;
+    left: 85px;
+    color: #333461;
+    margin: 15px 70px;
+  }
+  .flay .end {
+    width: 545px;
+    height: 116px;
+    top: 420px;
+    left: 85px;
+    margin: -130px 70px;
+  }
+  .flay .chaild {
+    display: flex;
+    width: fixed 250px;
+    height: Hug 42px;
+    top: 544px;
+    left: 85px;
+    padding: 9px 16px 9px 16px;
+    gap: 10px;
+    margin: 70px 54px;
+  }
+  
+  .start {
+    display: flex;
+    width: 462px;
+    height: 603px;
+    top: 160px;
+    left: 812px;
+    margin: -800px 900px;
+  }
+  .nop{
+    width: 1000px;
+    height: 230px;
+    margin: 830px 185px;
+  }
+  .png{
+    display: flex;
+    width: 980px;
+    height: 270px;
+    margin: -800px 250px;
+  }
+  .pol{
+    width: 280px;
+    height: 200px;
+    color: #333461;
+    margin: 870px 51px
+  }
+  .loki{
+    display: flex;
+    margin: -1080px 20px;
+  }
+  .b-end{
+    width: 361px;
+    height: 112px;
+    color: #333461;
+    align-items: center;
+    margin: 1200px 460px;
+  }
+  .c-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    width: 100%;
+    height: 90%;
+    position: absolute;
+      margin: -1290px -130px;
+  }
+  .c-item{
+    width: 356px;
+    height: 300px;
+    border: 1px solid;
+  }
+  .fort{
+    margin: -290px;
+  }
